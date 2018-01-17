@@ -1,0 +1,1 @@
+# Wordpress CSRF Upload Açığı
